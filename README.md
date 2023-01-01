@@ -10,7 +10,7 @@ En Oferta
 Nuevos Lanzamientos
 
 Ver Proyecto con Netlify
-Aquí pondré el link...
+https://melodious-kitten-d9522b.netlify.app/
 
 Video demostrativo
 https://www.loom.com/share/9f5bc0902f874797a839278301f52cf1
